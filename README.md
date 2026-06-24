@@ -110,6 +110,7 @@ Crear una aplicación para celulares que ayude a los ciudadanos de Itagüí a co
 | Categoría | Rendimiento |
 | Descripción | El sistema debe cargar la información de rutas de forma rápida. |
 | Métrica | La información debe mostrarse en menos de 3 segundos. |
+
 REFERENCIAS
 
 - - Área Metropolitana del Valle de Aburrá \[AMVA\]. (2023). _Informe de gestión ambiental y estado de la calidad del aire en el territorio metropolitano_. Publicaciones AMVA. [https://www.metropol.gov.co](https://www.metropol.gov.co/)
